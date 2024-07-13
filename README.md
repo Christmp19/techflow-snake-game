@@ -22,7 +22,7 @@ Assurez-vous d'avoir Python installé sur votre machine. Vous pouvez télécharg
 
 ## Exécution du Jeu
 
-Pour lancer le jeu, exécutez simplement le script Python :
+- Pour lancer le jeu, exécutez simplement le script Python :
 
     ```sh
     python snake_game.py
